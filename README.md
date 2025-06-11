@@ -11,3 +11,9 @@ These are the array programs i have practices on
 1.find the leaders in an array (Web8.java)
 2.Find the majority element in an array by using Boyer-Moore Voting Algorithm (Web9.java)
 3.find the first repeating elemet not by value but by position (Web10.java)
+
+11/06/2025
+1.Count Frequency of All Elements from 1 to n (Web11.java)
+ Given n integers in range 1 to n, find frequency of each number using O(1) space if allowed to modify the array.
+ 2.Given an unsorted array, find the length of the longest consecutive numbers (regardless of order).(Web12.java)
+ 3.Right Rotation of an array based on the input of rotation size(Web13.java)
