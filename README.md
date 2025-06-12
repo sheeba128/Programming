@@ -17,3 +17,19 @@ These are the array programs i have practices on
  Given n integers in range 1 to n, find frequency of each number using O(1) space if allowed to modify the array.
  2.Given an unsorted array, find the length of the longest consecutive numbers (regardless of order).(Web12.java)
  3.Right Rotation of an array based on the input of rotation size(Web13.java)
+
+12/06/2025
+1.Write a program to print the following output form the array
+i/p:[2,7,4,5,6] (Web16.java)
+o/p: (2,7),(2,4),(2,5),(2,6),
+(7,4),(7,5),(7,6)
+(4,5),(4,6),
+(5,6)
+2.Write a program to print the following output form the array
+i/p:[2,7,4,5,6]  (Web17.java)
+o/p: (6,5),(6,4),(6,7),(2,6),
+(5,4),(5,7),(5,2)
+(4,7),(4,2),
+(7,2)
+3.Trapping rain Water (Web18.java)
+4.Sunrise view ofBuildings (Web19.java)
